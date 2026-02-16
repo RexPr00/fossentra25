@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+<rect width="1200" height="760" rx="24" fill="#F2F5FF"/>
+<rect x="120" y="120" width="960" height="520" rx="20" fill="#fff" stroke="#7B8FE5" stroke-width="3"/>
+<line x1="440" y1="120" x2="440" y2="640" stroke="#9CAAF0"/>
+<line x1="760" y1="120" x2="760" y2="640" stroke="#9CAAF0"/>
+<line x1="120" y1="300" x2="1080" y2="300" stroke="#9CAAF0"/>
+<line x1="120" y1="470" x2="1080" y2="470" stroke="#9CAAF0"/>
+<circle cx="320" cy="550" r="34" fill="#2FD37A"/><circle cx="580" cy="430" r="34" fill="#13D6D0"/><circle cx="840" cy="250" r="34" fill="#4458FF"/><circle cx="930" cy="190" r="34" fill="#7F4DFF"/>
+<text x="120" y="80" fill="#111831" font-size="42" font-family="system-ui">Risk-Managed Allocation Matrix</text>
+</svg>
